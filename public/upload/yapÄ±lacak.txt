@@ -1,0 +1,15 @@
+Cari hesaplar altýna bakiye düzeltme eklenecek,
+
+Ana sayfadaki hesaplar gurp olarak gösterilecek
+
+Faturalar için ayrý bir alan açýlacak, gider gelir etkilemeyecek, cariyi borçlandýracak,
+
+Ayrý bir bölüm açýlacak fiþ iþleme bölümü diye, fiþler 
+
+Tarih tutar kdv eklenecek,
+
+Maaþ bölümü açýlacak, maaþ girilen personel hakediþ olarak iþlenecek, maaþ ödemesi giderler bölümünden iþlenecek,
+gelir gider etkilenmeyecek,
+
+Her alana tarih filtresi konulacak, açýdlýðýnda aktif ay veya listede aktif gün gelecek, deðiþtirilerek farklý listeler alýnacabilecek,
+

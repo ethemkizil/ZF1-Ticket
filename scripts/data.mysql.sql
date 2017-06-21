@@ -1,0 +1,2 @@
+INSERT INTO ticket (title, detail, priority, created) VALUES ('test 2', 'test 2 detail data from here', 2, now());
+INSERT INTO ticket (title, detail, priority, created) VALUES ('test 1', 'test 1 detail data from here', 1, now());

@@ -1,0 +1,18 @@
+body {
+    padding: 50px;
+}
+#header {
+    background-color: #EEEEEE; height: 30px;
+    padding: 5px;
+    font-size: 14px;
+}
+.deletelink {
+    color: #b50001;
+}
+.errors {
+    color: #b50001 ;
+}
+.recordinfo {
+    text-align: center;
+    font-weight: bold;
+}
